@@ -1,0 +1,7 @@
+{
+  "name": "CAM-aid-V1",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
